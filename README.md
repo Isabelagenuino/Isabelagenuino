@@ -5,7 +5,7 @@
   <img src="./banner-light.v9%20(1).svg" width="100%" alt="Painel de perfil de Isabela Genuino">
 </picture>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,50:7F1D1D,100:DC2626&text=ISABELA%20GENUINO&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Banner em preto e vermelho com o nome Isabela Genuino">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=850&color=DC2626&center=true&vCenter=true&width=900&lines=DESENVOLVEDORA+FRONT-END;VUE.JS+%7C+NUXT.JS+%7C+TYPESCRIPT;INTERFACES+COM+ATEN%C3%87%C3%83O+AOS+DETALHES;APRENDENDO+E+CONSTRUINDO+COM+TECNOLOGIA" alt="Frases animadas sobre meu perfil">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=850&color=DC2626&center=true&vCenter=true&width=900&lines=DESENVOLVEDORA+FRONT-END;VUE.JS+%7C+NUXT.JS+%7C+JAVASCRIPT;INTERFACES+COM+ATEN%C3%87%C3%83O+AOS+DETALHES;APRENDENDO+E+CONSTRUINDO+COM+TECNOLOGIA" alt="Frases animadas sobre meu perfil">
 </div>
 
 <div align="center">
